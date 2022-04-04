@@ -1,4 +1,4 @@
-### olá! Eu sou o Fernando Calixto! 👋
+### Olá! Eu sou o Fernando Calixto! 👋
 
 <div align="center">
   <a href="https://github.com/Calixto29">
